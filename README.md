@@ -1,2 +1,2 @@
 # HelloWorld
-Quete WC
+Quete WCS
